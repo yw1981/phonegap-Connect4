@@ -1,2 +1,2 @@
-# phonegap-Connect4/
+# phonegap-Connect4
 Phonegap wrapper for Connect4
